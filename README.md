@@ -12,6 +12,7 @@ Live Preview: Users can see a live preview of their background as they make chan
 
 
 Usage
+
 To use the CSS Background Generator, follow these steps:
 
 Clone the repository or download the ZIP file and extract it to your desired location.
@@ -43,10 +44,9 @@ Submit a pull request with a detailed description of your changes.
 
 Your contribution will be reviewed by the project maintainers, and feedback may be provided for further improvements.
 
-License
-The CSS Background Generator is open source and released under the MIT License. You are free to use, modify, and distribute this software for personal or commercial purposes. However, please note that no warranty is provided, and the authors are not liable for any damages or liabilities arising from the use of this software.
 
 Acknowledgements
+
 The CSS Background Generator was built using HTML, CSS, and JavaScript.
 
 We express our gratitude to the developers of these launguages for their valuable contributions to the open source community.

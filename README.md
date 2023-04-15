@@ -1,8 +1,9 @@
-CSS Background Generator
+# README
+## CSS Background Generator
 
 The CSS Background Generator is a simple web tool that allows users to generate CSS code for creating visually appealing and customizable backgrounds for their websites or web applications. This repository contains the source code and files for the CSS Background Generator.
 
-Features
+### Features
 
 The CSS Background Generator offers the following features:
 
@@ -11,7 +12,7 @@ Gradient Backgrounds: Users can create gradient backgrounds by choosing multiple
 Live Preview: Users can see a live preview of their background as they make changes in the tool.
 
 
-Usage
+### Usage
 
 To use the CSS Background Generator, follow these steps:
 
@@ -29,7 +30,7 @@ Paste the copied CSS code into your own CSS file or style block in your HTML fil
 
 Save your changes and refresh your web page to see your custom background in action.
 
-Contributing
+### Contributing
 Contributions to the CSS Background Generator are welcome! If you would like to contribute to this project, please follow these steps:
 
 Fork the repository.
@@ -45,7 +46,7 @@ Submit a pull request with a detailed description of your changes.
 Your contribution will be reviewed by the project maintainers, and feedback may be provided for further improvements.
 
 
-Acknowledgements
+### Acknowledgements
 
 The CSS Background Generator was built using HTML, CSS, and JavaScript.
 
